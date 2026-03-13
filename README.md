@@ -87,7 +87,7 @@ Includes:
 
 ### Olympic Games Played Over Time
 
-![Games Played](screenshots/Overall_analysis2.png)
+![Games Played](screenshots/Overall_analysis.png)
 
 ---
 
@@ -107,15 +107,13 @@ Includes:
 
 ### Height vs Weight Analysis
 
-![Height vs Weight](screenshots/Athletewise_Analysis.png)
+![Height vs Weight](screenshots/Athletewise_analysis1.png)
 
-### Age Distribution by Sport
 
-![Age Distribution](screenshots/newplot.png)
 
 ### Probability of Winning a Medal by Age
 
-![Medal Probability](screenshots/Athletewise_analysis1.png)
+![Medal Probability](screenshots/Athletewise_analysis.png)
 
 ---
 
