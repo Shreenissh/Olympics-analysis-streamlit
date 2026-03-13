@@ -79,15 +79,15 @@ Includes:
 
 ### Top Statistics
 
-![Overall Stats](screenshots/overall_analysis.png)
+![Overall Stats](screenshots/Overall_analysis.png)
 
 ### Participating Nations Over Years
 
-![Participating Nations](screenshots/overall_analysis1.png)
+![Participating Nations](screenshots/Overall_analysis1.png)
 
 ### Olympic Games Played Over Time
 
-![Games Played](screenshots/overall_analysis2.png)
+![Games Played](screenshots/Overall_analysis2.png)
 
 ---
 
@@ -95,11 +95,11 @@ Includes:
 
 ### Medal Trend Over Years
 
-![Country Medal Trend](screenshots/country_analysis.png)
+![Country Medal Trend](screenshots/Countrywise_analysis.png)
 
 ### Top Athletes of Selected Country
 
-![Country Athletes](screenshots/country_analysis1.png)
+![Country Athletes](screenshots/Countrywise_analysis1.png)
 
 ---
 
@@ -107,7 +107,7 @@ Includes:
 
 ### Height vs Weight Analysis
 
-![Height vs Weight](screenshots/athlete_analysis.png)
+![Height vs Weight](screenshots/Athletewise_Analysis.png)
 
 ### Age Distribution by Sport
 
@@ -115,7 +115,7 @@ Includes:
 
 ### Probability of Winning a Medal by Age
 
-![Medal Probability](screenshots/athlete_analysis1.png)
+![Medal Probability](screenshots/Athletewise_analysis1.png)
 
 ---
 
