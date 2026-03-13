@@ -71,7 +71,7 @@ Includes:
 
 ## 🥇 Medal Tally
 
-![Medal Tally](screenshots/medal_tally.png)
+![Medal Tally](screenshots/Medal_tally.png)
 
 ---
 
