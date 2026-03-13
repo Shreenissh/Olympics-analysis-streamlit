@@ -113,7 +113,7 @@ Includes:
 
 ### Probability of Winning a Medal by Age
 
-![Medal Probability](screenshots/Athletewise_analysis.png)
+![Medal Probability](screenshots/Athletewise_Analysis.png)
 
 ---
 
